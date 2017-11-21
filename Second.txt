@@ -1,4 +1,6 @@
+
 this is my second file in git  + advance changes 
+satyanaraynaa is a good boy and innocent think so
 
 Steps to create repository and manage repository
 
