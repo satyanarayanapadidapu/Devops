@@ -1,3 +1,29 @@
-this is my second file in git
 
+this is my second file in git  + advance changes 
 satyanaraynaa is a good boy and innocent think so
+
+Steps to create repository and manage repository
+
+1.	Should require to create github, at least with one repository
+
+2.	Require to install git client in our machine  ,then create one local folder where you want keep files
+3.	do init using  "   git init  "
+
+4.	Create few files in directory and add to git using “git add filename"
+5.	Do commit using " git commit  -m  "message "
+6.	first time should require to use the below command before push
+
+git pull --rebase https://github.com/satyanarayanapadidapu/Devops
+Note: if you want to get any changes from git hub before push ,just ran the pull command 
+
+7.	push using "git push repositiryname branchname  “
+
+
+
+notes:
+if you are unable to push the chnages just ran the below command
+
+git remote -v
+
+if you did not find any repositories add   "git remote add  reposotiryname  customurl "
+
