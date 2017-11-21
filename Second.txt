@@ -25,3 +25,7 @@ git remote -v
 
 if you did not find any repositories add   "git remote add  reposotiryname  customurl "
 
+
+
+added end text :added end text
+
