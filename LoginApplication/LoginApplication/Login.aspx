@@ -15,6 +15,7 @@
         .style2
         {
             width: 141px;
+            height:auto;
         }
         
       
